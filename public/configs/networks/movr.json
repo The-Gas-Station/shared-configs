@@ -1,0 +1,56 @@
+{
+  "launchDate": "",
+  "display": "Moonriver",
+  "tokenImage": "/public/images/tokens/movr.png",
+  "etherLiquidityPair": "evm:0xe537f70a8b62204832B8Ba91940B77d3f79AEb81",
+  "liquidityPairs": [
+    {
+      "name": "Pair",
+      "address": "evm:0x88e5319621a16696728e8E4bb45a5dd407b85A54"
+    },
+    {
+      "name": "HBLP",
+      "address": "evm:0x34C28190473FF08113Ea4006E941a0682086CcfA"
+    }
+  ],
+  "gasTokenName": "movrGAS",
+  "name": "movr",
+  "etherCoingeckoId": "wmovr",
+  "buyAddress": "https://app.solarbeam.io/exchange/swap?outputCurrency=0xfA44e0Bf61c46221BFfAa60F59E82e2319491929",
+  "launched": true,
+  "gasTokenAddress": "evm:0xfA44e0Bf61c46221BFfAa60F59E82e2319491929",
+  "chartAddress": "https://dexscreener.com/moonriver/0x88e5319621a16696728e8e4bb45a5dd407b85a54",
+  "pools": [
+    {
+      "name": "LP Dual Fuel",
+      "address": "evm:0xa916a8b06Ce44F12c63D411E98f3D0340c48CF38",
+      "type": "DoubleV2",
+      "stakeIcon": "/public/images/tokens/solarbeamlogo.png",
+      "reward0Icon": "/public/images/tokens/gas.svg",
+      "reward1Icon": "/public/images/tokens/movr-blue-circle.svg",
+      "stakeSymbol": "movrGAS-MOVR SLP"
+    },
+    {
+      "name": "movrGAS Maximizer",
+      "address": "evm:0xbcD71f70560a6380c02e7f9EfB7388D2e257FdF8",
+      "type": "SingleV3",
+      "stakeIcon": "/public/images/tokens/gas.svg",
+      "reward0Icon": "/public/images/tokens/gas.svg"
+    },
+    {
+      "name": "WMOVR Fuel Pool",
+      "address": "evm:0x4ABA7790c864Fc9cBaFA5D063C15890B2913635a",
+      "type": "SingleV3",
+      "stakeIcon": "/public/images/tokens/movr-blue-circle.svg",
+      "reward0Icon": "/public/images/tokens/gas.svg"
+    },
+    {
+      "name": "Fuel Up",
+      "address": "evm:0x7C545b5b8330CAbe5a8EdfE9954d7144533E76Fb",
+      "type": "SingleV3",
+      "stakeIcon": "/public/images/tokens/usdc.png",
+      "reward0Icon": "/public/images/tokens/gas.svg"
+    }
+  ],
+  "chainId": 1285
+}
