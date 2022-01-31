@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - "prod"
+      - "master"
 
 jobs:
   curl:
@@ -9,5 +9,3 @@ jobs:
     steps:
       - name: Update Website - master
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/61f781ebe61702471f1e98b4
-      - name: Update Website - prod
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/61f781dbf18a45468701f9e7
