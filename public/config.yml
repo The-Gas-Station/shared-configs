@@ -12,7 +12,7 @@ collections:
   - name: "networks"
     label: "Networks"
     identifier_field: "name"
-    folder: "public/configs/networks"
+    folder: "src/configs/networks"
     create: true
     extension: "json"
     format: "json"
