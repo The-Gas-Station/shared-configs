@@ -138,5 +138,6 @@
     }
   ],
   "nfpAddress": "evm:0x9a05c9a97ec5a2ce1fa435ef372d2767993a5e7b",
+  "bridgeAddress": "evm:0xF23b700E739F8416d62735D67F8D7F5748816dAa",
   "chainId": 56
 }

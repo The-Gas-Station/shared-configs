@@ -114,5 +114,6 @@
   ],
   "lookupLiquidityPairs": [],
   "nfpAddress": "evm:0x1a0b4e0facd171d5e5ce3d1cda30624ead73a06b",
+  "bridgeAddress": "evm:0x21468d7a066882307C8b46738Bf6BA39BbcE1607",
   "chainId": 137
 }

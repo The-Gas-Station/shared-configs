@@ -69,6 +69,12 @@ collections:
           widget: "crypto-address",
         }
       - {
+          label: "Bridge",
+          name: "bridgeAddress",
+          required: false,
+          widget: "crypto-address",
+        }
+      - {
           label: "Non-Fungible Patron GitHub Base Url",
           name: "nfpGitHubBaseURL",
           required: false,
